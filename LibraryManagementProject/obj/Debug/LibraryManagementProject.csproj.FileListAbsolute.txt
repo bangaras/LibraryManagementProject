@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\obj\Debug\LibraryManagementProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\obj\Debug\LibraryManagementProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\bin\Debug\LibraryManagementProject.exe.config
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\bin\Debug\LibraryManagementProject.exe
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\bin\Debug\LibraryManagementProject.pdb
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\obj\Debug\LibraryManagementProject.exe
+C:\Users\Admin\source\repos\LibraryManagementProject\LibraryManagementProject\obj\Debug\LibraryManagementProject.pdb
